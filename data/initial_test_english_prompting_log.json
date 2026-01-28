@@ -1,0 +1,546 @@
+{
+  "test_info": {
+    "timestamp": "2026-01-28T23:49:34.347978",
+    "config": {
+      "csv_input": "data/raw/filenames_with_mood.csv",
+      "folder_gambar": "scaled_images",
+      "output_file": "data/initial_test_english_prompting_results.csv",
+      "log_file": "data/initial_test_english_prompting_log.json",
+      "selection_file": "data/initial_test_english_prompting_selection.json",
+      "images_per_mood": 5,
+      "total_unique_images": 15,
+      "total_captions": 60,
+      "random_seed": 42,
+      "base_delay": 1.5,
+      "max_delay": 10.0,
+      "retry_attempts": 2,
+      "batch_size": 1,
+      "max_image_size": [
+        1024,
+        1024
+      ],
+      "gc_interval": 3,
+      "moods": {
+        "mood_1": "joy",
+        "mood_2": "sad",
+        "mood_3": "surprised"
+      },
+      "prompting_techniques": [
+        "zero-shot",
+        "few-shot",
+        "chain-of-thought",
+        "persona"
+      ]
+    },
+    "total_combinations": 60,
+    "successful_captions": 0,
+    "failed_captions": 60,
+    "success_rate": 0.0
+  },
+  "successful_results": [],
+  "failed_attempts": [
+    {
+      "image_filename": "4567734402.jpg",
+      "mood": "joy",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:43:29.179824"
+    },
+    {
+      "image_filename": "4567734402.jpg",
+      "mood": "joy",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:43:35.358554"
+    },
+    {
+      "image_filename": "4567734402.jpg",
+      "mood": "joy",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:43:41.553641"
+    },
+    {
+      "image_filename": "4567734402.jpg",
+      "mood": "joy",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:43:47.751116"
+    },
+    {
+      "image_filename": "2137071442.jpg",
+      "mood": "joy",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:43:53.935792"
+    },
+    {
+      "image_filename": "2137071442.jpg",
+      "mood": "joy",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:00.125567"
+    },
+    {
+      "image_filename": "2137071442.jpg",
+      "mood": "joy",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:06.328970"
+    },
+    {
+      "image_filename": "2137071442.jpg",
+      "mood": "joy",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:12.522608"
+    },
+    {
+      "image_filename": "127332812.jpg",
+      "mood": "joy",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:18.722961"
+    },
+    {
+      "image_filename": "127332812.jpg",
+      "mood": "joy",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:24.919138"
+    },
+    {
+      "image_filename": "127332812.jpg",
+      "mood": "joy",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:31.124029"
+    },
+    {
+      "image_filename": "127332812.jpg",
+      "mood": "joy",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:37.373346"
+    },
+    {
+      "image_filename": "4853383129.jpg",
+      "mood": "joy",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:43.564322"
+    },
+    {
+      "image_filename": "4853383129.jpg",
+      "mood": "joy",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:49.745886"
+    },
+    {
+      "image_filename": "4853383129.jpg",
+      "mood": "joy",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:44:55.917306"
+    },
+    {
+      "image_filename": "4853383129.jpg",
+      "mood": "joy",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:02.104272"
+    },
+    {
+      "image_filename": "2833431496.jpg",
+      "mood": "joy",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:08.280527"
+    },
+    {
+      "image_filename": "2833431496.jpg",
+      "mood": "joy",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:14.462049"
+    },
+    {
+      "image_filename": "2833431496.jpg",
+      "mood": "joy",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:20.623019"
+    },
+    {
+      "image_filename": "2833431496.jpg",
+      "mood": "joy",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:26.804454"
+    },
+    {
+      "image_filename": "2705103961.jpg",
+      "mood": "sad",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:32.986807"
+    },
+    {
+      "image_filename": "2705103961.jpg",
+      "mood": "sad",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:39.170275"
+    },
+    {
+      "image_filename": "2705103961.jpg",
+      "mood": "sad",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:45.340585"
+    },
+    {
+      "image_filename": "2705103961.jpg",
+      "mood": "sad",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:51.497780"
+    },
+    {
+      "image_filename": "2609900643.jpg",
+      "mood": "sad",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:45:57.707820"
+    },
+    {
+      "image_filename": "2609900643.jpg",
+      "mood": "sad",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:03.886573"
+    },
+    {
+      "image_filename": "2609900643.jpg",
+      "mood": "sad",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:10.061489"
+    },
+    {
+      "image_filename": "2609900643.jpg",
+      "mood": "sad",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:16.229991"
+    },
+    {
+      "image_filename": "2276237758.jpg",
+      "mood": "sad",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:22.463510"
+    },
+    {
+      "image_filename": "2276237758.jpg",
+      "mood": "sad",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:29.113051"
+    },
+    {
+      "image_filename": "2276237758.jpg",
+      "mood": "sad",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:35.297482"
+    },
+    {
+      "image_filename": "2276237758.jpg",
+      "mood": "sad",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:41.463660"
+    },
+    {
+      "image_filename": "4838453136.jpg",
+      "mood": "sad",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:47.634418"
+    },
+    {
+      "image_filename": "4838453136.jpg",
+      "mood": "sad",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:53.796949"
+    },
+    {
+      "image_filename": "4838453136.jpg",
+      "mood": "sad",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:46:59.952531"
+    },
+    {
+      "image_filename": "4838453136.jpg",
+      "mood": "sad",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:06.097341"
+    },
+    {
+      "image_filename": "2092425006.jpg",
+      "mood": "sad",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:12.253029"
+    },
+    {
+      "image_filename": "2092425006.jpg",
+      "mood": "sad",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:18.408690"
+    },
+    {
+      "image_filename": "2092425006.jpg",
+      "mood": "sad",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:24.568194"
+    },
+    {
+      "image_filename": "2092425006.jpg",
+      "mood": "sad",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:30.726832"
+    },
+    {
+      "image_filename": "4687453573.jpg",
+      "mood": "surprised",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:36.897676"
+    },
+    {
+      "image_filename": "4687453573.jpg",
+      "mood": "surprised",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:43.063855"
+    },
+    {
+      "image_filename": "4687453573.jpg",
+      "mood": "surprised",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:49.219662"
+    },
+    {
+      "image_filename": "4687453573.jpg",
+      "mood": "surprised",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:47:55.393553"
+    },
+    {
+      "image_filename": "4851512952.jpg",
+      "mood": "surprised",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:01.563507"
+    },
+    {
+      "image_filename": "4851512952.jpg",
+      "mood": "surprised",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:07.739523"
+    },
+    {
+      "image_filename": "4851512952.jpg",
+      "mood": "surprised",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:13.901645"
+    },
+    {
+      "image_filename": "4851512952.jpg",
+      "mood": "surprised",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:20.214013"
+    },
+    {
+      "image_filename": "6857882214.jpg",
+      "mood": "surprised",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:26.372900"
+    },
+    {
+      "image_filename": "6857882214.jpg",
+      "mood": "surprised",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:32.536860"
+    },
+    {
+      "image_filename": "6857882214.jpg",
+      "mood": "surprised",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:38.693151"
+    },
+    {
+      "image_filename": "6857882214.jpg",
+      "mood": "surprised",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:44.853406"
+    },
+    {
+      "image_filename": "3972588012.jpg",
+      "mood": "surprised",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:51.034675"
+    },
+    {
+      "image_filename": "3972588012.jpg",
+      "mood": "surprised",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:48:57.358873"
+    },
+    {
+      "image_filename": "3972588012.jpg",
+      "mood": "surprised",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:03.514438"
+    },
+    {
+      "image_filename": "3972588012.jpg",
+      "mood": "surprised",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:09.676338"
+    },
+    {
+      "image_filename": "195546059.jpg",
+      "mood": "surprised",
+      "technique": "zero-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:15.852129"
+    },
+    {
+      "image_filename": "195546059.jpg",
+      "mood": "surprised",
+      "technique": "few-shot",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:22.016249"
+    },
+    {
+      "image_filename": "195546059.jpg",
+      "mood": "surprised",
+      "technique": "chain-of-thought",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:28.185749"
+    },
+    {
+      "image_filename": "195546059.jpg",
+      "mood": "surprised",
+      "technique": "persona",
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "attempts": 3,
+      "timestamp": "2026-01-28T23:49:34.346463"
+    }
+  ],
+  "selected_images": {
+    "joy": [
+      "4567734402.jpg",
+      "2137071442.jpg",
+      "127332812.jpg",
+      "4853383129.jpg",
+      "2833431496.jpg"
+    ],
+    "sad": [
+      "2705103961.jpg",
+      "2609900643.jpg",
+      "2276237758.jpg",
+      "4838453136.jpg",
+      "2092425006.jpg"
+    ],
+    "surprised": [
+      "4687453573.jpg",
+      "4851512952.jpg",
+      "6857882214.jpg",
+      "3972588012.jpg",
+      "195546059.jpg"
+    ]
+  }
+}

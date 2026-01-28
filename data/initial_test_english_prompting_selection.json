@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-01-29T00:08:56.982731",
+  "config": {
+    "csv_input": "data/raw/filenames_with_mood.csv",
+    "folder_gambar": "scaled_images",
+    "output_file": "data/initial_test_english_prompting_results.csv",
+    "log_file": "data/initial_test_english_prompting_log.json",
+    "selection_file": "data/initial_test_english_prompting_selection.json",
+    "images_per_mood": 5,
+    "total_unique_images": 15,
+    "total_captions": 60,
+    "random_seed": 42,
+    "base_delay": 10.0,
+    "max_delay": 60.0,
+    "retry_attempts": 5,
+    "batch_size": 1,
+    "max_image_size": [
+      1024,
+      1024
+    ],
+    "gc_interval": 5,
+    "moods": {
+      "mood_1": "joy",
+      "mood_2": "sad",
+      "mood_3": "surprised"
+    },
+    "prompting_techniques": [
+      "zero-shot",
+      "few-shot",
+      "chain-of-thought",
+      "persona"
+    ]
+  },
+  "selected_images": {
+    "joy": [
+      "4567734402.jpg",
+      "2137071442.jpg",
+      "127332812.jpg",
+      "4853383129.jpg",
+      "2833431496.jpg"
+    ],
+    "sad": [
+      "2705103961.jpg",
+      "2609900643.jpg",
+      "2276237758.jpg",
+      "4838453136.jpg",
+      "2092425006.jpg"
+    ],
+    "surprised": [
+      "4687453573.jpg",
+      "4851512952.jpg",
+      "6857882214.jpg",
+      "3972588012.jpg",
+      "195546059.jpg"
+    ]
+  },
+  "total_combinations": 60
+}

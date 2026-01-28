@@ -1,6 +1,7 @@
 # Images folder (only root level Images folder)
 Images/
-data/scaled_images
+data/scaled_images/
+scaled_images/
 
 # Python
 __pycache__/
