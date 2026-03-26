@@ -1,0 +1,241 @@
+filename,emotion,technique,caption,timestamp,success
+4489731.jpg,joy,zero-shot,Happy vibes and delicious bites shared together!,2026-02-27 21:05:51,True
+4489731.jpg,joy,few-shot,What a fantastic gathering filled with laughter and good times!,2026-02-27 21:05:56,True
+4489731.jpg,joy,chain-of-thought,Joyful gathering with yummy treats!,2026-02-27 21:06:02,True
+4489731.jpg,joy,persona,This is the kind of shared joy that makes every bite sweeter and every laugh louder!,2026-02-27 21:06:13,True
+4489731.jpg,sad,zero-shot,This fleeting comfort will soon be just a memory.,2026-02-27 21:06:21,True
+4489731.jpg,sad,few-shot,The laughter around me only deepens the quiet sorrow within.,2026-02-27 21:06:26,True
+4489731.jpg,sad,chain-of-thought,"A happiness remembered, now a quiet ache.",2026-02-27 21:06:34,True
+4489731.jpg,sad,persona,"We gathered like this so many times, never knowing how many of us would drift away.",2026-02-27 21:06:43,True
+4489731.jpg,surprised,zero-shot,"Whoa, what an amazing spread!",2026-02-27 21:06:49,True
+4489731.jpg,surprised,few-shot,"Wow, this spread is truly unexpected!",2026-02-27 21:06:57,True
+4489731.jpg,surprised,chain-of-thought,"Seriously, this is all for us?!",2026-02-27 21:07:06,True
+4489731.jpg,surprised,persona,"Hold up, you mean *all this* is for us?!",2026-02-27 21:07:14,True
+3787801.jpg,joy,zero-shot,Joyful engagement makes the workday shine!,2026-02-27 21:07:23,True
+3787801.jpg,joy,few-shot,Feeling so energized and happy with the day's accomplishments!,2026-02-27 21:07:28,True
+3787801.jpg,joy,chain-of-thought,Joyful focus in a bright workspace!,2026-02-27 21:07:37,True
+3787801.jpg,joy,persona,That priceless feeling when a simple workday surprise puts an instant smile on your face!,2026-02-27 21:07:44,True
+3787801.jpg,sad,zero-shot,He wondered if this was all there was.,2026-02-27 21:07:49,True
+3787801.jpg,sad,few-shot,"Lost in thought amidst the endless paperwork, a silent ache persists.",2026-02-27 21:07:55,True
+3787801.jpg,sad,chain-of-thought,"Another day dims, the silent hum of dreams quietly forgotten.",2026-02-27 21:08:04,True
+3787801.jpg,sad,persona,We traded the stars in our eyes for fluorescent lights and endless to-do lists.,2026-02-27 21:08:15,True
+3787801.jpg,surprised,zero-shot,Mind blown by this unexpected discovery!,2026-02-27 21:08:24,True
+3787801.jpg,surprised,few-shot,"Whoa, that result completely caught me off guard!",2026-02-27 21:08:33,True
+3787801.jpg,surprised,chain-of-thought,"Astonishing, a classic CRT in action!",2026-02-27 21:08:44,True
+3787801.jpg,surprised,persona,That moment when the office printer actually works on the first try.,2026-02-27 21:08:54,True
+4378823.jpg,joy,zero-shot,My little princess brings joy to every moment!,2026-02-27 21:09:03,True
+4378823.jpg,joy,few-shot,Absolutely loving every single moment of this special day!,2026-02-27 21:09:10,True
+4378823.jpg,joy,chain-of-thought,Pure joy in a pink dress!,2026-02-27 21:09:16,True
+4378823.jpg,joy,persona,Who needs a quiet office when you have a tiny royal assistant making every moment enchanting?,2026-02-27 21:09:23,True
+4378823.jpg,sad,zero-shot,"Underneath the vibrant threads, a quiet weariness settles in her gaze.",2026-02-27 21:09:30,True
+4378823.jpg,sad,few-shot,Some conversations carry a heavy heart.,2026-02-27 21:09:36,True
+4378823.jpg,sad,chain-of-thought,"Beneath the bright hues, a mother's quiet, weary sorrow.",2026-02-27 21:09:44,True
+4378823.jpg,sad,persona,The hardest conversations often happen when your greatest reason to be strong is right there in your arms.,2026-02-27 21:09:52,True
+4378823.jpg,surprised,zero-shot,"Hold on, you're absolutely sure about this incredible news?",2026-02-27 21:10:01,True
+4378823.jpg,surprised,few-shot,"Well, I certainly wasn't expecting that!",2026-02-27 21:10:06,True
+4378823.jpg,surprised,chain-of-thought,"Oh wow, what a moment!",2026-02-27 21:10:18,True
+4378823.jpg,surprised,persona,"That 'wait, WHAT just happened?' look when the unexpected calls and you're already in charge of a tiny princess.",2026-02-27 21:10:29,True
+3765589.jpg,joy,zero-shot,Joyful rhythms fill the streets with color and cheer!,2026-02-27 21:10:36,True
+3765589.jpg,joy,few-shot,The vibrant energy of this celebration is absolutely infectious!,2026-02-27 21:10:39,True
+3765589.jpg,joy,chain-of-thought,Pure joy and vibrant energy light up the street!,2026-02-27 21:10:44,True
+3765589.jpg,joy,persona,"Every vibrant drumbeat ignites a surge of pure, infectious joy that fills the air and makes your spirit dance!",2026-02-27 21:10:53,True
+3765589.jpg,sad,zero-shot,"A vivid memory, now tinged with the quiet ache of what's lost.",2026-02-27 21:11:04,True
+3765589.jpg,sad,few-shot,"A profound sense of longing often lingers, even amidst the brightest moments.",2026-02-27 21:11:09,True
+3765589.jpg,sad,chain-of-thought,"The vibrant laughter has faded to a quiet, distant echo.",2026-02-27 21:11:19,True
+3765589.jpg,sad,persona,"Even amidst the most vibrant melodies, the looming shadow of 'DE CREDITO' reminded us of the silent burdens we carried long after the parade passed.",2026-02-27 21:11:27,True
+3765589.jpg,surprised,zero-shot,"Wow, the street just erupted in an explosion of color and sound!",2026-02-27 21:11:33,True
+3765589.jpg,surprised,few-shot,What an unexpected burst of festive energy!,2026-02-27 21:11:39,True
+3765589.jpg,surprised,chain-of-thought,"Whoa, what a dazzling spectacle!",2026-02-27 21:11:46,True
+3765589.jpg,surprised,persona,"Wait, did I just stumble into the most epic street party I never knew existed?!",2026-02-27 21:11:55,True
+4183120.jpg,joy,zero-shot,Soaking in the vibrant energy of the day!,2026-02-27 21:12:01,True
+4183120.jpg,joy,few-shot,What a fantastic day to enjoy some spirited competition!,2026-02-27 21:12:05,True
+4183120.jpg,joy,chain-of-thought,Happy cheers for the gym fun!,2026-02-27 21:12:11,True
+4183120.jpg,joy,persona,"Nothing beats the electric atmosphere of a day filled with cheers, smiles, and unforgettable fun!",2026-02-27 21:12:21,True
+4183120.jpg,sad,zero-shot,The quiet weight of ordinary days.,2026-02-27 21:12:29,True
+4183120.jpg,sad,few-shot,"A profound sense of emptiness lingered, a quiet testament to unfulfilled hopes.",2026-02-27 21:12:40,True
+4183120.jpg,sad,chain-of-thought,"Another evening, a quiet echo of what could have been.",2026-02-27 21:12:50,True
+4183120.jpg,sad,persona,"We watched, but it felt like we were already remembering the end of a chapter we weren't ready to close.",2026-02-27 21:12:59,True
+4183120.jpg,surprised,zero-shot,"Whoa, what a spectacle!",2026-02-27 21:13:07,True
+4183120.jpg,surprised,few-shot,"Wow, what an unexpected turn of events!",2026-02-27 21:13:16,True
+4183120.jpg,surprised,chain-of-thought,"Wow, look at all these matches!",2026-02-27 21:13:22,True
+4183120.jpg,surprised,persona,"Wait, did anyone else just see what I think I saw on the mat?!",2026-02-27 21:13:31,True
+4376178.jpg,joy,zero-shot,Bright skies and a happy heart make for the best fishing day!,2026-02-27 21:13:37,True
+4376178.jpg,joy,few-shot,What a glorious day to embark on a peaceful journey on the tranquil waters!,2026-02-27 21:13:47,True
+4376178.jpg,joy,chain-of-thought,"Bright blue boat, joyful day on the water!",2026-02-27 21:13:53,True
+4376178.jpg,joy,persona,"Finding pure, unhurried joy reflected in every ripple of this perfectly vibrant day!",2026-02-27 21:14:00,True
+4376178.jpg,sad,zero-shot,The still water silently mirrored his solitary weariness.,2026-02-27 21:14:07,True
+4376178.jpg,sad,few-shot,The quiet solitude of the water only deepens the unspoken sorrow.,2026-02-27 21:14:16,True
+4376178.jpg,sad,chain-of-thought,The quiet melancholy of a life spent waiting on the tide's empty promise.,2026-02-27 21:14:25,True
+4376178.jpg,sad,persona,"Another day, another net, another silent prayer for enough.",2026-02-27 21:14:32,True
+4376178.jpg,surprised,zero-shot,"Oh, the quiet beauty is simply mesmerizing!",2026-02-27 21:14:41,True
+4376178.jpg,surprised,few-shot,"Oh wow, I didn't expect to see a fishing boat out here!",2026-02-27 21:14:50,True
+4376178.jpg,surprised,chain-of-thought,Gasp! What an incredible amount of net!,2026-02-27 21:14:58,True
+4376178.jpg,surprised,persona,You won't BELIEVE what he just pulled out of that net!,2026-02-27 21:15:07,True
+4386588.jpg,joy,zero-shot,"Sunshine, smiles, and stitches with the joyful Peace Knits crew!",2026-02-27 21:15:13,True
+4386588.jpg,joy,few-shot,What a delightful gathering of creative spirits and warm hearts!,2026-02-27 21:15:18,True
+4386588.jpg,joy,chain-of-thought,Knitting peace with joyful hearts!,2026-02-27 21:15:24,True
+4386588.jpg,joy,persona,"Pure joy radiates when community, creativity, and the message of peace perfectly intertwine!",2026-02-27 21:15:32,True
+4386588.jpg,sad,zero-shot,They knitted for a peace that still feels far away.,2026-02-27 21:15:39,True
+4386588.jpg,sad,few-shot,"Sometimes, even amidst connection, a quiet sorrow finds its own space.",2026-02-27 21:15:46,True
+4386588.jpg,sad,chain-of-thought,"A gentle solace, in the enduring wait for a peace that never quite arrives.",2026-02-27 21:15:55,True
+4386588.jpg,sad,persona,"Remembering when every stitch felt like a promise, not a silent prayer for what might never be.",2026-02-27 21:16:04,True
+4386588.jpg,surprised,zero-shot,"Wow, what a vibrant Peace Knits community!",2026-02-27 21:16:11,True
+4386588.jpg,surprised,few-shot,Peace knitting? What an incredibly surprising and wonderful idea!,2026-02-27 21:16:17,True
+4386588.jpg,surprised,chain-of-thought,Peace Knits? What an incredible idea!,2026-02-27 21:16:25,True
+4386588.jpg,surprised,persona,Who knew world peace could start one stitch at a time?,2026-02-27 21:16:35,True
+4429660.jpg,joy,zero-shot,Happiness is finding your favorite lap on a sunny bench.,2026-02-27 21:16:41,True
+4429660.jpg,joy,few-shot,Absolutely loving every second of this beautiful day with my favorite person!,2026-02-27 21:16:46,True
+4429660.jpg,joy,chain-of-thought,Sunshine and sweet affection!,2026-02-27 21:16:53,True
+4429660.jpg,joy,persona,"Some love stories just know how to make every bench feel like a private, joyful playground.",2026-02-27 21:17:03,True
+4429660.jpg,sad,zero-shot,"He rested his weariness on her, a silent weight in the afternoon sun.",2026-02-27 21:17:18,True
+4429660.jpg,sad,few-shot,"The world felt too heavy to carry, so I just rested in the quiet.",2026-02-27 21:17:28,True
+4429660.jpg,sad,chain-of-thought,A quiet weight she'd learned to bear.,2026-02-27 21:17:37,True
+4429660.jpg,sad,persona,"She held his weary head, knowing some goodbyes are too heavy for words.",2026-02-27 21:17:47,True
+4429660.jpg,surprised,zero-shot,"Wow, what a seating arrangement!",2026-02-27 21:17:55,True
+4429660.jpg,surprised,few-shot,"Well, that's certainly an unexpected way to relax!",2026-02-27 21:17:59,True
+4429660.jpg,surprised,chain-of-thought,"Whoa, that's some incredible balance!",2026-02-27 21:18:09,True
+4429660.jpg,surprised,persona,Did anyone else just do a double-take at this park bench situation?,2026-02-27 21:18:16,True
+3996401.jpg,joy,zero-shot,Enjoying good company and lively conversations!,2026-02-27 21:18:22,True
+3996401.jpg,joy,few-shot,What a wonderful gathering to share laughter and good times!,2026-02-27 21:18:26,True
+3996401.jpg,joy,chain-of-thought,Cheers to delightful company!,2026-02-27 21:18:31,True
+3996401.jpg,joy,persona,Pure joy bubbles up when inspiring conversations light up the room and the soul.,2026-02-27 21:18:39,True
+3996401.jpg,sad,zero-shot,A quiet wistfulness filled the spaces between their words.,2026-02-27 21:18:47,True
+3996401.jpg,sad,few-shot,"A quiet observer, holding a silent, persistent ache.",2026-02-27 21:18:55,True
+3996401.jpg,sad,chain-of-thought,The quiet sorrow in a sunlit pause.,2026-02-27 21:19:06,True
+3996401.jpg,sad,persona,"Trying to be present, when all you can feel is the weight of what's missing.",2026-02-27 21:19:14,True
+3996401.jpg,surprised,zero-shot,"Whoa, this is absolutely incredible!",2026-02-27 21:19:22,True
+3996401.jpg,surprised,few-shot,"Wow, this place is surprisingly more inviting than I imagined!",2026-02-27 21:19:29,True
+3996401.jpg,surprised,chain-of-thought,Unbelievable!,2026-02-27 21:19:37,True
+3996401.jpg,surprised,persona,Did you just see what I saw?!,2026-02-27 21:19:45,True
+4307968.jpg,joy,zero-shot,Sunshine and smiles make for a perfect day out with friends!,2026-02-27 21:19:51,True
+4307968.jpg,joy,few-shot,What a fantastic day to be out and about with everyone!,2026-02-27 21:19:56,True
+4307968.jpg,joy,chain-of-thought,"Sunshine, smiles, and lively conversations!",2026-02-27 21:20:01,True
+4307968.jpg,joy,persona,"There's nothing quite like the joyful buzz of anticipation when we all gather, ready for what's next!",2026-02-27 21:20:09,True
+4307968.jpg,sad,zero-shot,"A thousand stories pass, and none are truly mine.",2026-02-27 21:20:16,True
+4307968.jpg,sad,few-shot,The weight of unspoken words presses heavily on my heart.,2026-02-27 21:20:21,True
+4307968.jpg,sad,chain-of-thought,A quiet ache in the vibrant hum.,2026-02-27 21:20:31,True
+4307968.jpg,sad,persona,"Watching them, I couldn't shake the heavy feeling that we were all just waiting for something we couldn't quite name.",2026-02-27 21:20:39,True
+4307968.jpg,surprised,zero-shot,What an unbelievable crowd!,2026-02-27 21:20:47,True
+4307968.jpg,surprised,few-shot,"Wow, what an unexpected gathering!",2026-02-27 21:20:53,True
+4307968.jpg,surprised,chain-of-thought,"Wow, what an amazing turnout!",2026-02-27 21:20:59,True
+4307968.jpg,surprised,persona,"That ""wait, did I just see that?!"" moment everyone in the crowd felt.",2026-02-27 21:21:09,True
+4414061.jpg,joy,zero-shot,Happy snoozes after a wonderful day in the snow!,2026-02-27 21:21:16,True
+4414061.jpg,joy,few-shot,Recharging for another day of pure joy on this amazing trip!,2026-02-27 21:21:23,True
+4414061.jpg,joy,chain-of-thought,Sweet dreams after a snowy adventure!,2026-02-27 21:21:29,True
+4414061.jpg,joy,persona,"When the fun hits so hard, you just gotta *hibernate* in the back seat, no regrets!",2026-02-27 21:21:36,True
+4414061.jpg,sad,zero-shot,"Lost in a quiet slumber, as the cold world softly drifts away.",2026-02-27 21:21:45,True
+4414061.jpg,sad,few-shot,The silent miles ahead feel as heavy as the unspoken goodbyes left behind.,2026-02-27 21:21:54,True
+4414061.jpg,sad,chain-of-thought,Escaping the quiet ache of a winter's road.,2026-02-27 21:22:01,True
+4414061.jpg,sad,persona,"Curled up against the cold world, sometimes sleep is the only place you feel safe enough to break.",2026-02-27 21:22:11,True
+4414061.jpg,surprised,zero-shot,"Wow, they're absolutely out cold!",2026-02-27 21:22:19,True
+4414061.jpg,surprised,few-shot,"Well, didn't expect them to be napping so deeply!",2026-02-27 21:22:27,True
+4414061.jpg,surprised,chain-of-thought,"Wow, utterly crashed out in this snowy dreamscape!",2026-02-27 21:22:36,True
+4414061.jpg,surprised,persona,"Wait, we're *already* at the mountain?!",2026-02-27 21:22:44,True
+4199555.jpg,joy,zero-shot,A joyful thumbs-up from a friendly face amidst the vibrant produce!,2026-02-27 21:22:52,True
+4199555.jpg,joy,few-shot,Feeling absolutely fantastic and ready for anything!,2026-02-27 21:22:56,True
+4199555.jpg,joy,chain-of-thought,Bringing smiles with nature's fresh bounty!,2026-02-27 21:23:05,True
+4199555.jpg,joy,persona,"This beaming smile and vibrant haul are giving me all the joyful, fresh feels!",2026-02-27 21:23:16,True
+4199555.jpg,sad,zero-shot,A solitary figure in the fading light of hope.,2026-02-27 21:23:23,True
+4199555.jpg,sad,few-shot,The stillness of waiting carries a silent ache.,2026-02-27 21:23:30,True
+4199555.jpg,sad,chain-of-thought,"His quiet gaze, a silent, heavy wait.",2026-02-27 21:23:39,True
+4199555.jpg,sad,persona,"Beneath the vibrant colors of his stall, lies the quiet struggle of a man whose best efforts often feel like just enough to keep going.",2026-02-27 21:23:50,True
+4199555.jpg,surprised,zero-shot,His surprised finger points to an amazing bounty!,2026-02-27 21:23:58,True
+4199555.jpg,surprised,few-shot,"Wow, what an unexpected and vibrant street find!",2026-02-27 21:24:05,True
+4199555.jpg,surprised,chain-of-thought,"Whoa, what an amazing, vibrant scene!",2026-02-27 21:24:13,True
+4199555.jpg,surprised,persona,"Wait, you're telling me you've never tried a lime this fresh?!",2026-02-27 21:24:23,True
+3680138.jpg,joy,zero-shot,Pure joy in every laugh!,2026-02-27 21:24:30,True
+3680138.jpg,joy,few-shot,What a wonderful moment filled with genuine laughter!,2026-02-27 21:24:35,True
+3680138.jpg,joy,chain-of-thought,Pure joy and laughter!,2026-02-27 21:24:41,True
+3680138.jpg,joy,persona,"That infectious, full-belly laugh that just makes your whole day sparkle!",2026-02-27 21:24:51,True
+3680138.jpg,sad,zero-shot,"Sometimes, the loudest laughter is the hardest cry.",2026-02-27 21:24:57,True
+3680138.jpg,sad,few-shot,My heart carries a quiet burden that only time can ease.,2026-02-27 21:25:04,True
+3680138.jpg,sad,chain-of-thought,The echo of a happiness now just a memory.,2026-02-27 21:25:14,True
+3680138.jpg,sad,persona,Her loudest laughs are often the ones designed to drown out the quietest cries.,2026-02-27 21:25:21,True
+3680138.jpg,surprised,zero-shot,"No way, that's unbelievable!",2026-02-27 21:25:31,True
+3680138.jpg,surprised,few-shot,"Wow, that's an incredible surprise!",2026-02-27 21:25:38,True
+3680138.jpg,surprised,chain-of-thought,Unbelievable!,2026-02-27 21:25:48,True
+3680138.jpg,surprised,persona,"Wait, you mean *that* just happened?!",2026-02-27 21:25:57,True
+4280272.jpg,joy,zero-shot,Joyful wonder shines in their curious gazes.,2026-02-27 21:26:04,True
+4280272.jpg,joy,few-shot,The simple joy of discovering something new!,2026-02-27 21:26:10,True
+4280272.jpg,joy,chain-of-thought,Bright eyed and full of wonder!,2026-02-27 21:26:19,True
+4280272.jpg,joy,persona,That look of wide-eyed wonder? It's the pure joy of discovery igniting a million future dreams!,2026-02-27 21:26:27,True
+4280272.jpg,sad,zero-shot,So much unspoken sorrow in such young eyes.,2026-02-27 21:26:33,True
+4280272.jpg,sad,few-shot,The silent weight of the world seemed to rest on their young shoulders.,2026-02-27 21:26:41,True
+4280272.jpg,sad,chain-of-thought,The quiet weight of childhood dreams.,2026-02-27 21:26:50,True
+4280272.jpg,sad,persona,"In their quiet gaze, an unspoken yearning for a future that feels miles away.",2026-02-27 21:26:58,True
+4280272.jpg,surprised,zero-shot,A moment of wide-eyed wonder.,2026-02-27 21:27:03,True
+4280272.jpg,surprised,few-shot,"Wow, what an unexpected sight!",2026-02-27 21:27:11,True
+4280272.jpg,surprised,chain-of-thought,Completely awestruck!,2026-02-27 21:27:17,True
+4280272.jpg,surprised,persona,"A sudden intake of breath, as pure wonder stops the world.",2026-02-27 21:27:26,True
+3734864.jpg,joy,zero-shot,"Up, up, and away for a day of smiles!",2026-02-27 21:27:32,True
+3734864.jpg,joy,few-shot,So happy to see everything coming together beautifully today!,2026-02-27 21:27:40,True
+3734864.jpg,joy,chain-of-thought,Elevating spirits with every lift!,2026-02-27 21:27:49,True
+3734864.jpg,joy,persona,"Turning big projects into pure joy rides, one sky-high lift and speedy chute at a time!",2026-02-27 21:28:03,True
+3734864.jpg,sad,zero-shot,Emptying out the echoes of what once was.,2026-02-27 21:28:13,True
+3734864.jpg,sad,few-shot,"The effort often outweighs the reward, leaving only a quiet weariness.",2026-02-27 21:28:21,True
+3734864.jpg,sad,chain-of-thought,A silent dismantling under a mournful sky.,2026-02-27 21:28:28,True
+3734864.jpg,sad,persona,They're not just taking down a building; they're dismantling a silent witness to countless forgotten lives.,2026-02-27 21:28:37,True
+3734864.jpg,surprised,zero-shot,"Whoa, what an unbelievable operation!",2026-02-27 21:28:44,True
+3734864.jpg,surprised,few-shot,"Wow, that's an unexpectedly elaborate operation!",2026-02-27 21:28:50,True
+3734864.jpg,surprised,chain-of-thought,"Wow, look at that reach!",2026-02-27 21:28:57,True
+3734864.jpg,surprised,persona,"Seriously, how else was I supposed to get my new couch up here?",2026-02-27 21:29:04,True
+4413714.jpg,joy,zero-shot,A happy buzz of minds working and learning together!,2026-02-27 21:29:12,True
+4413714.jpg,joy,few-shot,What a wonderful feeling to learn and grow together!,2026-02-27 21:29:17,True
+4413714.jpg,joy,chain-of-thought,Joyful learning lights up our classroom!,2026-02-27 21:29:24,True
+4413714.jpg,joy,persona,These vibrant young minds are sparking pure joy and brilliant ideas as they learn and grow together!,2026-02-27 21:29:30,True
+4413714.jpg,sad,zero-shot,Their small shoulders already bear the weight of a world too heavy.,2026-02-27 21:29:38,True
+4413714.jpg,sad,few-shot,"Lost in thought, a quiet sadness made the bustling room feel distant.",2026-02-27 21:29:44,True
+4413714.jpg,sad,chain-of-thought,"A quiet hum of futures, where childhood's echoes slowly fade.",2026-02-27 21:29:56,True
+4413714.jpg,sad,persona,"Watching them learn, I can't help but wonder which ones will lose their spark trying to fit the mold.",2026-02-27 21:30:04,True
+4413714.jpg,surprised,zero-shot,The class is alight with amazing revelations!,2026-02-27 21:30:13,True
+4413714.jpg,surprised,few-shot,"Wow, the ingenuity displayed in their work is truly unexpected!",2026-02-27 21:30:22,True
+4413714.jpg,surprised,chain-of-thought,Amazing! A classroom alive with discovery!,2026-02-27 21:30:29,True
+4413714.jpg,surprised,persona,Who knew learning could be *this* electrifying when everyone's ideas collide?,2026-02-27 21:30:38,True
+4135695.jpg,joy,zero-shot,Savoring a delightful moment!,2026-02-27 21:30:46,True
+4135695.jpg,joy,few-shot,"Feeling absolutely fantastic, ready for anything!",2026-02-27 21:30:51,True
+4135695.jpg,joy,chain-of-thought,Lost in a happy moment!,2026-02-27 21:30:58,True
+4135695.jpg,joy,persona,When the good vibes are just *chef's kiss*.,2026-02-27 21:31:05,True
+4135695.jpg,sad,zero-shot,His closed eyes held a world of unspoken sorrow.,2026-02-27 21:31:11,True
+4135695.jpg,sad,few-shot,"Closing my eyes, the world feels impossibly heavy today.",2026-02-27 21:31:18,True
+4135695.jpg,sad,chain-of-thought,Inhaling the quiet sorrow.,2026-02-27 21:31:26,True
+4135695.jpg,sad,persona,"The quietest moments are often where the heaviest things are carried, trying to disappear with the next breath.",2026-02-27 21:31:35,True
+4135695.jpg,surprised,zero-shot,"Wow, absolutely incredible.",2026-02-27 21:31:46,True
+4135695.jpg,surprised,few-shot,"Wow, that sensation is truly unexpected!",2026-02-27 21:31:54,True
+4135695.jpg,surprised,chain-of-thought,Wow. Just… wow.,2026-02-27 21:32:04,True
+4135695.jpg,surprised,persona,The exact moment the truth finally hit.,2026-02-27 21:32:12,True
+4162702.jpg,joy,zero-shot,Pure joy exploring these beautiful hills together!,2026-02-27 21:32:19,True
+4162702.jpg,joy,few-shot,What a fantastic day for an adventure in nature!,2026-02-27 21:32:25,True
+4162702.jpg,joy,chain-of-thought,Pure joy adventuring together!,2026-02-27 21:32:33,True
+4162702.jpg,joy,persona,"Finding our happy place one green step at a time, filled with fresh air and even fresher smiles!",2026-02-27 21:32:39,True
+4162702.jpg,sad,zero-shot,"The quiet miles stretched on, carrying a heavy, silent memory.",2026-02-27 21:32:47,True
+4162702.jpg,sad,few-shot,"Even in the quiet of nature, some thoughts still weigh heavily.",2026-02-27 21:32:53,True
+4162702.jpg,sad,chain-of-thought,Footprints fading on a path walked long ago.,2026-02-27 21:33:03,True
+4162702.jpg,sad,persona,"We walk these familiar paths, but the joy that once echoed here feels like a distant whisper now.",2026-02-27 21:33:09,True
+4162702.jpg,surprised,zero-shot,"Oh my goodness, what an incredible place!",2026-02-27 21:33:17,True
+4162702.jpg,surprised,few-shot,"Wow, this landscape is truly unexpected!",2026-02-27 21:33:27,True
+4162702.jpg,surprised,chain-of-thought,"Oh wow, this is absolutely incredible!",2026-02-27 21:33:36,True
+4162702.jpg,surprised,persona,"That split second when a peaceful hike suddenly turns into a wide-eyed, ""Wait, what was *that*?!"" moment.",2026-02-27 21:33:45,True
+3662865.jpg,joy,zero-shot,Shoveling up pure joy on a snowy day!,2026-02-27 21:33:52,True
+3662865.jpg,joy,few-shot,Nothing beats a playful snow day with a friend!,2026-02-27 21:33:57,True
+3662865.jpg,joy,chain-of-thought,Pure joy in every snowy scoop!,2026-02-27 21:34:03,True
+3662865.jpg,joy,persona,"Pure joy, one playful scoop of snow-day magic at a time!",2026-02-27 21:34:11,True
+3662865.jpg,sad,zero-shot,These fleeting moments of winter wonder will soon be just a chill on an old heart.,2026-02-27 21:34:21,True
+3662865.jpg,sad,few-shot,The silent fall of snow mirrors a quiet ache that won't melt away.,2026-02-27 21:34:29,True
+3662865.jpg,sad,chain-of-thought,The silent weight of winter on tiny shoulders.,2026-02-27 21:34:38,True
+3662865.jpg,sad,persona,"There's a quiet sadness in watching little hands shovel, knowing some paths only get harder to clear.",2026-02-27 21:34:46,True
+3662865.jpg,surprised,zero-shot,"Whoa, this much snow is unbelievable!",2026-02-27 21:34:54,True
+3662865.jpg,surprised,few-shot,"Wow, what an unexpected snow day for playing!",2026-02-27 21:35:03,True
+3662865.jpg,surprised,chain-of-thought,"Wow, what an amazing amount of snow!",2026-02-27 21:35:11,True
+3662865.jpg,surprised,persona,"Woke up to snow, and five minutes later, a full-blown shovel battle royale broke out!",2026-02-27 21:35:20,True
+3753939.jpg,joy,zero-shot,Sparkling clean for a joyful journey ahead!,2026-02-27 21:35:28,True
+3753939.jpg,joy,few-shot,A perfectly clear view for a joyful journey to new horizons!,2026-02-27 21:35:36,True
+3753939.jpg,joy,chain-of-thought,Sparkling windows for soaring adventures!,2026-02-27 21:35:42,True
+3753939.jpg,joy,persona,Washing away the clouds so every journey begins with crystal-clear skies and endless smiles!,2026-02-27 21:35:53,True
+3753939.jpg,sad,zero-shot,"The window gleams, yet the journey feels endlessly the same.",2026-02-27 21:36:04,True
+3753939.jpg,sad,few-shot,Even clarity of vision can't erase the ache within.,2026-02-27 21:36:12,True
+3753939.jpg,sad,chain-of-thought,Washing away the ghosts of journeys past.,2026-02-27 21:36:21,True
+3753939.jpg,sad,persona,"He polishes the window to the endless sky, but all he can truly see is how far he is from home.",2026-02-27 21:36:31,True
+3753939.jpg,surprised,zero-shot,"Wow, that's a hands-on approach to sparkling cockpit windows!",2026-02-27 21:36:37,True
+3753939.jpg,surprised,few-shot,"Well, that's certainly an unexpected way to get a clear view!",2026-02-27 21:36:45,True
+3753939.jpg,surprised,chain-of-thought,So *that's* how they clean the cockpit windows!,2026-02-27 21:36:54,True
+3753939.jpg,surprised,persona,"Hold up, they still clean airplane windows *by hand* like this?!",2026-02-27 21:37:04,True

@@ -1,0 +1,241 @@
+filename,emotion,technique,caption,timestamp,success
+3637013.jpg,joy,zero-shot,Happy hearts enjoying the tranquil waterside.,2026-02-27 22:07:00,True
+3637013.jpg,joy,few-shot,Every moment spent here with you feels like pure bliss!,2026-02-27 22:07:05,True
+3637013.jpg,joy,chain-of-thought,Happily wandering in our green paradise!,2026-02-27 22:07:12,True
+3637013.jpg,joy,persona,"Strolling into pure happiness, one beautiful moment at a time.",2026-02-27 22:07:20,True
+3637013.jpg,sad,zero-shot,"Another season passes, and still, some goodbyes linger.",2026-02-27 22:07:28,True
+3637013.jpg,sad,few-shot,The stillness of the water mirrors a heart heavy with unspoken sorrow.,2026-02-27 22:07:34,True
+3637013.jpg,sad,chain-of-thought,"Their embrace, a quiet sorrow in the fading light.",2026-02-27 22:07:42,True
+3637013.jpg,sad,persona,"That moment when you know it's the last time, but you cling to the warmth as long as you can.",2026-02-27 22:07:50,True
+3637013.jpg,surprised,zero-shot,"What a truly breathtaking, unexpected sight!",2026-02-27 22:07:57,True
+3637013.jpg,surprised,few-shot,"Wow, this serene discovery is truly unexpected!",2026-02-27 22:08:04,True
+3637013.jpg,surprised,chain-of-thought,Is this real? Absolutely mesmerizing!,2026-02-27 22:08:10,True
+3637013.jpg,surprised,persona,"Whoa, I *definitely* wasn't expecting to find a moment this sweet today!",2026-02-27 22:08:21,True
+2760167.jpg,joy,zero-shot,Pure joy in every note they sing!,2026-02-27 22:08:26,True
+2760167.jpg,joy,few-shot,Our voices unite in a chorus of pure happiness!,2026-02-27 22:08:33,True
+2760167.jpg,joy,chain-of-thought,Harmonies of pure joy!,2026-02-27 22:08:39,True
+2760167.jpg,joy,persona,Let the harmonious melodies and infectious joy lift your spirits!,2026-02-27 22:08:46,True
+2760167.jpg,sad,zero-shot,Their blended voices carried the quiet weight of memory.,2026-02-27 22:08:53,True
+2760167.jpg,sad,few-shot,Even a chorus of voices can't fill the quiet void within.,2026-02-27 22:09:01,True
+2760167.jpg,sad,chain-of-thought,A harmony that whispers of things lost and longed for.,2026-02-27 22:09:09,True
+2760167.jpg,sad,persona,"They sang with the weight of every beautiful memory, each note a silent tear for what's now gone.",2026-02-27 22:09:18,True
+2760167.jpg,surprised,zero-shot,"Their voices, a breathtaking surprise!",2026-02-27 22:09:24,True
+2760167.jpg,surprised,few-shot,"Wow, I didn't expect such a breathtaking performance!",2026-02-27 22:09:29,True
+2760167.jpg,surprised,chain-of-thought,Mind-blowing vocals!,2026-02-27 22:09:36,True
+2760167.jpg,surprised,persona,"That look when the harmony hits so perfectly, it even shocks the choir.",2026-02-27 22:09:44,True
+3160699.jpg,joy,zero-shot,A joyful smile welcoming you in!,2026-02-27 22:09:53,True
+3160699.jpg,joy,few-shot,What a fantastic day to embrace new adventures!,2026-02-27 22:09:59,True
+3160699.jpg,joy,chain-of-thought,Opening doors with a smile!,2026-02-27 22:10:06,True
+3160699.jpg,joy,persona,"Sending a big, joyful hello right from my doorstep to yours!",2026-02-27 22:10:14,True
+3160699.jpg,sad,zero-shot,"At the door, the weight of a quiet goodbye.",2026-02-27 22:10:22,True
+3160699.jpg,sad,few-shot,A heavy heart finds little solace in the morning light.,2026-02-27 22:10:30,True
+3160699.jpg,sad,chain-of-thought,A quiet burden in the familiar frame.,2026-02-27 22:10:40,True
+3160699.jpg,sad,persona,"That smile, caught in a moment I didn't know would become a memory.",2026-02-27 22:10:48,True
+3160699.jpg,surprised,zero-shot,"Oh wow, look at you!",2026-02-27 22:11:00,True
+3160699.jpg,surprised,few-shot,"Oh, an unexpected visitor!",2026-02-27 22:11:07,True
+3160699.jpg,surprised,chain-of-thought,"Holy moly, look who it is!",2026-02-27 22:11:18,True
+3160699.jpg,surprised,persona,"Oh, hello there! Fancy seeing *you* at my doorstep.",2026-02-27 22:11:26,True
+2689611.jpg,joy,zero-shot,Sweet dreams filling our little one with joy!,2026-02-27 22:11:38,True
+2689611.jpg,joy,few-shot,What an amazing feeling of pure happiness!,2026-02-27 22:11:45,True
+2689611.jpg,joy,chain-of-thought,Dreaming happy dreams!,2026-02-27 22:11:53,True
+2689611.jpg,joy,persona,"This little adventurer is currently deep in the sweetest dreams, perfectly recharging for tomorrow's joyful discoveries!",2026-02-27 22:12:01,True
+2689611.jpg,sad,zero-shot,"A small child sleeps, burdened by a quiet, unseen sorrow.",2026-02-27 22:12:10,True
+2689611.jpg,sad,few-shot,"Sometimes, all that's left is to close your eyes and wish for a brighter day.",2026-02-27 22:12:16,True
+2689611.jpg,sad,chain-of-thought,A quiet ache in a fragile slumber.,2026-02-27 22:12:26,True
+2689611.jpg,sad,persona,May her dreams be kinder than the realities she's trying to outsleep.,2026-02-27 22:12:32,True
+2689611.jpg,surprised,zero-shot,"Oh wow, completely out cold!",2026-02-27 22:12:40,True
+2689611.jpg,surprised,few-shot,"Oh my, I didn't expect them to be asleep already!",2026-02-27 22:12:49,True
+2689611.jpg,surprised,chain-of-thought,"Wow, completely lost to the world!",2026-02-27 22:13:00,True
+2689611.jpg,surprised,persona,"Seriously, how does one even *begin* to achieve this level of absolute, unbothered sleep?!",2026-02-27 22:13:10,True
+3001353.jpg,joy,zero-shot,Happy faces enjoying the lively market buzz and tempting aromas!,2026-02-27 22:13:15,True
+3001353.jpg,joy,few-shot,What a fantastic buzz of energy and delicious smells fill this wonderful market!,2026-02-27 22:13:21,True
+3001353.jpg,joy,chain-of-thought,Pure delight in this lively market buzz!,2026-02-27 22:13:25,True
+3001353.jpg,joy,persona,"Pure joy is finding yourself immersed in vibrant energy, a happy crowd, and the irresistible scent of gourmet curry!",2026-02-27 22:13:34,True
+3001353.jpg,sad,zero-shot,"A sea of faces, and I'm still adrift.",2026-02-27 22:13:44,True
+3001353.jpg,sad,few-shot,"Even within this bustling crowd, a profound sense of loneliness settles in.",2026-02-27 22:13:53,True
+3001353.jpg,sad,chain-of-thought,"Amongst the throng, a quiet longing stirs.",2026-02-27 22:14:01,True
+3001353.jpg,sad,persona,"Sometimes, the most crowded places are where you feel the most profoundly alone.",2026-02-27 22:14:10,True
+3001353.jpg,surprised,zero-shot,Astounded by the vibrant energy and tempting aromas overflowing this bustling market!,2026-02-27 22:14:15,True
+3001353.jpg,surprised,few-shot,I can't believe how many people are here!,2026-02-27 22:14:22,True
+3001353.jpg,surprised,chain-of-thought,Stunned by this vibrant throng!,2026-02-27 22:14:29,True
+3001353.jpg,surprised,persona,"Wait, did I just stumble into *the* ultimate foodie gathering? My mind is blown!",2026-02-27 22:14:37,True
+3043766.jpg,joy,zero-shot,Ready for a sunny adventure!,2026-02-27 22:14:42,True
+3043766.jpg,joy,few-shot,Feeling absolutely thrilled to embark on this new journey!,2026-02-27 22:14:46,True
+3043766.jpg,joy,chain-of-thought,Waving hello to sunny skies and happy journeys!,2026-02-27 22:14:53,True
+3043766.jpg,joy,persona,"Wheels up, worries down – the world is calling!",2026-02-27 22:15:01,True
+3043766.jpg,sad,zero-shot,"Another departure, another stretch of lonely sky.",2026-02-27 22:15:07,True
+3043766.jpg,sad,few-shot,A goodbye whispered on the tarmac echoes long after the flight takes off.,2026-02-27 22:15:14,True
+3043766.jpg,sad,chain-of-thought,Stillness before the lonely ascent.,2026-02-27 22:15:21,True
+3043766.jpg,sad,persona,"Wishing this plane could just stay grounded, just for one more moment.",2026-02-27 22:15:34,True
+3043766.jpg,surprised,zero-shot,"Whoa, what an incredible machine up close!",2026-02-27 22:15:40,True
+3043766.jpg,surprised,few-shot,"Hold on, is someone looking out from the cockpit?",2026-02-27 22:15:49,True
+3043766.jpg,surprised,chain-of-thought,"Whoa, that plane looks absolutely amazed!",2026-02-27 22:15:59,True
+3043766.jpg,surprised,persona,"Hold up, did they just say everyone on this flight gets free first-class upgrades?!",2026-02-27 22:16:09,True
+3219606.jpg,joy,zero-shot,A stage full of happy voices!,2026-02-27 22:16:15,True
+3219606.jpg,joy,few-shot,What a magnificent celebration of music and talent!,2026-02-27 22:16:20,True
+3219606.jpg,joy,chain-of-thought,"Singing with pure joy, lighting up the stage!",2026-02-27 22:16:28,True
+3219606.jpg,joy,persona,"That feeling when every voice ignites the stage with pure, radiant joy!",2026-02-27 22:16:36,True
+3219606.jpg,sad,zero-shot,"The harmony lingers, a poignant whisper from a cherished past.",2026-02-27 22:16:44,True
+3219606.jpg,sad,few-shot,The quiet ache of absence often speaks louder than any words.,2026-02-27 22:16:53,True
+3219606.jpg,sad,chain-of-thought,A fading harmony of youthful dreams.,2026-02-27 22:17:00,True
+3219606.jpg,sad,persona,"We didn't know then that these harmonies would become the ghosts of our most cherished, long-lost memories.",2026-02-27 22:17:09,True
+3219606.jpg,surprised,zero-shot,Blown away by this amazing choir!,2026-02-27 22:17:16,True
+3219606.jpg,surprised,few-shot,"Wow, the sheer magnitude of this choir's sound is truly astonishing!",2026-02-27 22:17:24,True
+3219606.jpg,surprised,chain-of-thought,What an incredible choir!,2026-02-27 22:17:33,True
+3219606.jpg,surprised,persona,"My jaw just dropped, and I wasn't even there!",2026-02-27 22:17:41,True
+3537322.jpg,joy,zero-shot,Bright minds and happy hearts make learning a joy!,2026-02-27 22:17:49,True
+3537322.jpg,joy,few-shot,So happy to be learning and growing with this fantastic group!,2026-02-27 22:17:54,True
+3537322.jpg,joy,chain-of-thought,Happy learning adventures together!,2026-02-27 22:18:00,True
+3537322.jpg,joy,persona,Soaking up knowledge and good vibes with this amazing crew!,2026-02-27 22:18:07,True
+3537322.jpg,sad,zero-shot,The weight of what was to come settled softly on every quiet face.,2026-02-27 22:18:15,True
+3537322.jpg,sad,few-shot,"Even in a crowded room, the feeling of loneliness can be overwhelming.",2026-02-27 22:18:19,True
+3537322.jpg,sad,chain-of-thought,The quiet hum of days slipping by.,2026-02-27 22:18:29,True
+3537322.jpg,sad,persona,"In these outdated pixels, we see not just a past classroom, but the quiet fading of forgotten futures.",2026-02-27 22:18:37,True
+3537322.jpg,surprised,zero-shot,"Whoa, what a revelation!",2026-02-27 22:18:45,True
+3537322.jpg,surprised,few-shot,"Wow, that's an entirely unforeseen development!",2026-02-27 22:18:53,True
+3537322.jpg,surprised,chain-of-thought,"Whoa, look at all those incredible CRT monitors!",2026-02-27 22:18:59,True
+3537322.jpg,surprised,persona,That collective gasp when the instructor accidentally projected their personal browser history.,2026-02-27 22:19:13,True
+2784746.jpg,joy,zero-shot,Savoring every delicious moment with a smile!,2026-02-27 22:19:19,True
+2784746.jpg,joy,few-shot,Pure bliss in every bite!,2026-02-27 22:19:24,True
+2784746.jpg,joy,chain-of-thought,Delight in every spoonful!,2026-02-27 22:19:29,True
+2784746.jpg,joy,persona,"My face when I've found true love, and it's served on this plate!",2026-02-27 22:19:36,True
+2784746.jpg,sad,zero-shot,A quiet solace in every bite.,2026-02-27 22:19:44,True
+2784746.jpg,sad,few-shot,"A quiet meal, offering little comfort to a heavy heart.",2026-02-27 22:19:53,True
+2784746.jpg,sad,chain-of-thought,A quiet hunger for something more.,2026-02-27 22:20:03,True
+2784746.jpg,sad,persona,Even comfort food tastes a little empty when your heart is.,2026-02-27 22:20:10,True
+2784746.jpg,surprised,zero-shot,"Wow, that looks unbelievably good!",2026-02-27 22:20:20,True
+2784746.jpg,surprised,few-shot,"Wow, this taste is truly unexpected!",2026-02-27 22:20:25,True
+2784746.jpg,surprised,chain-of-thought,Mind blown by this deliciousness!,2026-02-27 22:20:32,True
+2784746.jpg,surprised,persona,Is this legally allowed to be this good?,2026-02-27 22:20:42,True
+3035057.jpg,joy,zero-shot,Waving hello to sunny skies and happy adventures!,2026-02-27 22:20:51,True
+3035057.jpg,joy,few-shot,What an amazing day to embark on a sky-high adventure!,2026-02-27 22:20:55,True
+3035057.jpg,joy,chain-of-thought,A cheerful wave for happy travels!,2026-02-27 22:21:02,True
+3035057.jpg,joy,persona,That friendly wave from the cockpit means pure joy is officially cleared for takeoff on our next grand adventure!,2026-02-27 22:21:11,True
+3035057.jpg,sad,zero-shot,The hum of the engines always sounded like a farewell.,2026-02-27 22:21:19,True
+3035057.jpg,sad,few-shot,The vastness of the sky only magnifies the quiet ache of absence.,2026-02-27 22:21:28,True
+3035057.jpg,sad,chain-of-thought,The vast sky mirrors the emptiness left by goodbye.,2026-02-27 22:21:37,True
+3035057.jpg,sad,persona,The vast blue sky felt less like an escape and more like an endless stretch from everything I held dear.,2026-02-27 22:21:48,True
+3035057.jpg,surprised,zero-shot,"Wow, what a view from up there!",2026-02-27 22:21:58,True
+3035057.jpg,surprised,few-shot,"Whoa, the pilot's actually looking out from the cockpit!",2026-02-27 22:22:09,True
+3035057.jpg,surprised,chain-of-thought,"Whoa, a wave from the cockpit!",2026-02-27 22:22:18,True
+3035057.jpg,surprised,persona,Did I just see a penguin waddle by?,2026-02-27 22:22:27,True
+3494059.jpg,joy,zero-shot,Spreading joy and comfort with every caring touch!,2026-02-27 22:22:35,True
+3494059.jpg,joy,few-shot,What a wonderful feeling to embrace this day with such hope and happiness!,2026-02-27 22:22:41,True
+3494059.jpg,joy,chain-of-thought,Warm smiles and caring hands brighten the day!,2026-02-27 22:22:48,True
+3494059.jpg,joy,persona,"That priceless feeling when skilled hands and loving hearts guide you toward a brighter, healthier tomorrow!",2026-02-27 22:22:59,True
+3494059.jpg,sad,zero-shot,The sterile hum of the room whispered of fading hopes.,2026-02-27 22:23:05,True
+3494059.jpg,sad,few-shot,The stillness of the room mirrors a heavy heart.,2026-02-27 22:23:12,True
+3494059.jpg,sad,chain-of-thought,"A life pauses, suspended in sterile air.",2026-02-27 22:23:21,True
+3494059.jpg,sad,persona,"In these quiet moments, you learn how truly fragile life can be.",2026-02-27 22:23:31,True
+3494059.jpg,surprised,zero-shot,These results are absolutely astounding!,2026-02-27 22:23:42,True
+3494059.jpg,surprised,few-shot,"Wow, what an unexpected revelation!",2026-02-27 22:23:49,True
+3494059.jpg,surprised,chain-of-thought,"Wow, the sheer dedication!",2026-02-27 22:23:59,True
+3494059.jpg,surprised,persona,When the doctor asks if you remembered to save the receipt for your appendix removal.,2026-02-27 22:24:13,True
+3012229.jpg,joy,zero-shot,Bright colors and cheerful company fill this joyful scene.,2026-02-27 22:24:25,True
+3012229.jpg,joy,few-shot,What a delightful day filled with community and cheer!,2026-02-27 22:24:33,True
+3012229.jpg,joy,chain-of-thought,Simple joys and bright smiles.,2026-02-27 22:24:40,True
+3012229.jpg,joy,persona,Soaking up all the vibrant joy and genuine warmth radiating from this beautiful everyday scene!,2026-02-27 22:24:49,True
+3012229.jpg,sad,zero-shot,A quiet weariness settled over their days.,2026-02-27 22:24:56,True
+3012229.jpg,sad,few-shot,"A quiet longing fills the air, echoing in the silent moments.",2026-02-27 22:25:03,True
+3012229.jpg,sad,chain-of-thought,"Faded hues, and the quiet yearning for more.",2026-02-27 22:25:15,True
+3012229.jpg,sad,persona,"The raw truth of survival echoes in their quiet gaze, a world away from where dreams bloom freely.",2026-02-27 22:25:24,True
+3012229.jpg,surprised,zero-shot,Eyes wide with wonder!,2026-02-27 22:25:31,True
+3012229.jpg,surprised,few-shot,"Oh, what an unexpected encounter!",2026-02-27 22:25:37,True
+3012229.jpg,surprised,chain-of-thought,"Oh wow, what a moment!",2026-02-27 22:25:46,True
+3012229.jpg,surprised,persona,"That instant when you catch a glimpse of the unexpected, and it catches you right back.",2026-02-27 22:25:54,True
+2285664.jpg,joy,zero-shot,Juggling sparks joy and wonder in the eyes of young onlookers.,2026-02-27 22:26:02,True
+2285664.jpg,joy,few-shot,What a delightful day for some captivating juggling and happy faces!,2026-02-27 22:26:07,True
+2285664.jpg,joy,chain-of-thought,A joyful juggle for eager young eyes!,2026-02-27 22:26:15,True
+2285664.jpg,joy,persona,Nothing beats the simple joy of sharing a little magic and seeing those wide-eyed grins!,2026-02-27 22:26:23,True
+2285664.jpg,sad,zero-shot,"Amidst the falling light, his art sought a connection that drifted just beyond reach.",2026-02-27 22:26:33,True
+2285664.jpg,sad,few-shot,Even the shared joy couldn't quiet the lonely thoughts.,2026-02-27 22:26:40,True
+2285664.jpg,sad,chain-of-thought,"His quiet struggle, held aloft against the fading light.",2026-02-27 22:26:50,True
+2285664.jpg,sad,persona,They see the magic; I feel the weight of every moment slipping through my hands.,2026-02-27 22:26:58,True
+2285664.jpg,surprised,zero-shot,Whoa! Incredible juggling surprises onlookers.,2026-02-27 22:27:05,True
+2285664.jpg,surprised,few-shot,"Wow, an unexpected juggling show in the park!",2026-02-27 22:27:12,True
+2285664.jpg,surprised,chain-of-thought,How does he do that?!,2026-02-27 22:27:17,True
+2285664.jpg,surprised,persona,That jaw-dropping moment when gravity takes a day off and pure wonder takes over their faces!,2026-02-27 22:27:23,True
+3025093.jpg,joy,zero-shot,This pianist is ready to hit all the right notes on the road!,2026-02-27 22:27:30,True
+3025093.jpg,joy,few-shot,What a wonderfully unique way to bring joy to the journey!,2026-02-27 22:27:37,True
+3025093.jpg,joy,chain-of-thought,What a joyful way for a pianist to make a grand entrance!,2026-02-27 22:27:45,True
+3025093.jpg,joy,persona,Proof that even pianists know how to make a *grand* entrance on the open road!,2026-02-27 22:27:53,True
+3025093.jpg,sad,zero-shot,"A pianist rides, a silent symphony playing only within.",2026-02-27 22:28:02,True
+3025093.jpg,sad,few-shot,"Sometimes, even a long ride can't outrun the quiet ache within.",2026-02-27 22:28:10,True
+3025093.jpg,sad,chain-of-thought,"His fingers once danced, now they grip the handlebars.",2026-02-27 22:28:19,True
+3025093.jpg,sad,persona,The road hums a lonely tune for the pianist who traded keys for miles.,2026-02-27 22:28:29,True
+3025093.jpg,surprised,zero-shot,An emergency pianist? Now I've seen everything!,2026-02-27 22:28:36,True
+3025093.jpg,surprised,few-shot,"Wow, a 'Pianist' on that motorcycle is truly unexpected!",2026-02-27 22:28:43,True
+3025093.jpg,surprised,chain-of-thought,A rapid-response pianist?! Amazing!,2026-02-27 22:28:50,True
+3025093.jpg,surprised,persona,"My jaw dropped when I realized this ""Pianist"" has a rapid response unit!",2026-02-27 22:29:02,True
+2317271.jpg,joy,zero-shot,Joyful hearts celebrate a beautiful day together.,2026-02-27 22:29:11,True
+2317271.jpg,joy,few-shot,A day filled with incredible love and happiness!,2026-02-27 22:29:16,True
+2317271.jpg,joy,chain-of-thought,A beautiful day brimming with love and joy!,2026-02-27 22:29:23,True
+2317271.jpg,joy,persona,"Pure joy radiating from every smile, beautifully wrapped in love and that absolutely unforgettable crimson magic!",2026-02-27 22:29:30,True
+2317271.jpg,sad,zero-shot,"A cherished moment, now a poignant whisper from the past.",2026-02-27 22:29:37,True
+2317271.jpg,sad,few-shot,A heavy heart makes even the brightest days feel dim.,2026-02-27 22:29:42,True
+2317271.jpg,sad,chain-of-thought,"A brief moment of joy, now a quiet, fading dream.",2026-02-27 22:29:51,True
+2317271.jpg,sad,persona,"Sometimes, the most cherished memories are the ones that quietly break your heart years later.",2026-02-27 22:29:58,True
+2317271.jpg,surprised,zero-shot,"Wow, what a breathtakingly unique wedding tableau!",2026-02-27 22:30:04,True
+2317271.jpg,surprised,few-shot,"Wow, this wonderful gathering is truly unexpected!",2026-02-27 22:30:11,True
+2317271.jpg,surprised,chain-of-thought,What an incredible vision in crimson!,2026-02-27 22:30:18,True
+2317271.jpg,surprised,persona,"Just when you thought you'd seen every kind of wedding, this unexpected red cape moment will absolutely take your breath away!",2026-02-27 22:30:26,True
+3367399.jpg,joy,zero-shot,A warm glow brightens the path for a joyful journey!,2026-02-27 22:30:34,True
+3367399.jpg,joy,few-shot,Nothing beats the feeling of a full tank and open roads ahead!,2026-02-27 22:30:39,True
+3367399.jpg,joy,chain-of-thought,"Bright lights, full tank, happy road ahead!",2026-02-27 22:30:45,True
+3367399.jpg,joy,persona,"That fresh-tank feeling, ready to chase every joyful moment on the road ahead!",2026-02-27 22:30:54,True
+3367399.jpg,sad,zero-shot,The silence of the evening felt heavier than the fuel in the tank.,2026-02-27 22:31:03,True
+3367399.jpg,sad,few-shot,"Another tank filled, but the emptiness within remains unchanged.",2026-02-27 22:31:10,True
+3367399.jpg,sad,chain-of-thought,"Just another stop in the quiet, endless night.",2026-02-27 22:31:19,True
+3367399.jpg,sad,persona,"Standing here, the only thing heavier than the nozzle is the weight of everything tomorrow holds.",2026-02-27 22:31:27,True
+3367399.jpg,surprised,zero-shot,Those gas prices are simply astonishing!,2026-02-27 22:31:35,True
+3367399.jpg,surprised,few-shot,"Wow, the cost of gas is truly astonishing!",2026-02-27 22:31:45,True
+3367399.jpg,surprised,chain-of-thought,"Wow, look at those numbers!",2026-02-27 22:31:52,True
+3367399.jpg,surprised,persona,The moment you realize your bank account just filed for divorce after checking the gas pump total.,2026-02-27 22:32:00,True
+2806447.jpg,joy,zero-shot,Pure joy resonates from these beautiful melodies!,2026-02-27 22:32:09,True
+2806447.jpg,joy,few-shot,"What a spectacular evening, filled with beautiful music and pure joy!",2026-02-27 22:32:17,True
+2806447.jpg,joy,chain-of-thought,"Joyful rhythms, breathtaking views!",2026-02-27 22:32:23,True
+2806447.jpg,joy,persona,"Where the sitar's song meets the tabla's rhythm, a breathtaking sunset orchestrates pure, unforgettable joy!",2026-02-27 22:32:30,True
+2806447.jpg,sad,zero-shot,A quiet symphony of longing against the fading light.,2026-02-27 22:32:37,True
+2806447.jpg,sad,few-shot,The mournful melody only deepens the quiet ache of a fading day.,2026-02-27 22:32:43,True
+2806447.jpg,sad,chain-of-thought,A fading twilight score for a heart that aches for yesterday.,2026-02-27 22:32:50,True
+2806447.jpg,sad,persona,"The tranquil waters reflected a melody of longing, a bittersweet symphony played for what could have been.",2026-02-27 22:32:57,True
+2806447.jpg,surprised,zero-shot,Absolutely mesmerizing!,2026-02-27 22:33:03,True
+2806447.jpg,surprised,few-shot,"Wow, what an incredible and unexpected performance in this stunning location!",2026-02-27 22:33:09,True
+2806447.jpg,surprised,chain-of-thought,Unbelievable! What a stunning blend of music and majesty.,2026-02-27 22:33:18,True
+2806447.jpg,surprised,persona,"Seriously, did I just step into a living painting where the music breathes life into the scenery?",2026-02-27 22:33:27,True
+2868798.jpg,joy,zero-shot,Joyful friends making the most of every moment!,2026-02-27 22:33:34,True
+2868798.jpg,joy,few-shot,What a fantastic selection of treats to brighten the day!,2026-02-27 22:33:39,True
+2868798.jpg,joy,chain-of-thought,Happy faces and bright ideas sparkling with joy!,2026-02-27 22:33:48,True
+2868798.jpg,joy,persona,When the biggest decision of the day is what yummy treat to pick with your favorite people!,2026-02-27 22:33:54,True
+2868798.jpg,sad,zero-shot,"A quiet melancholy settled in, a secret known only to her.",2026-02-27 22:34:01,True
+2868798.jpg,sad,few-shot,A quiet moment like this often brings unexpected tears.,2026-02-27 22:34:06,True
+2868798.jpg,sad,chain-of-thought,A quiet ache in the ordinary hum of life.,2026-02-27 22:34:17,True
+2868798.jpg,sad,persona,"Amidst smiles and chatter, her own world held a quiet, unnoticed ache.",2026-02-27 22:34:25,True
+2868798.jpg,surprised,zero-shot,What an amazing sight!,2026-02-27 22:34:35,True
+2868798.jpg,surprised,few-shot,"Whoa, I didn't expect to see that!",2026-02-27 22:34:44,True
+2868798.jpg,surprised,chain-of-thought,Eyes wide with wonder!,2026-02-27 22:34:56,True
+2868798.jpg,surprised,persona,"Wait, did that *actually* just happen?!",2026-02-27 22:35:05,True
+2209751.jpg,joy,zero-shot,What a bright and buzzing day creating movie magic!,2026-02-27 22:35:12,True
+2209751.jpg,joy,few-shot,What a fantastic day to bring stories to life on set!,2026-02-27 22:35:17,True
+2209751.jpg,joy,chain-of-thought,"Lights, camera, pure joy on set!",2026-02-27 22:35:24,True
+2209751.jpg,joy,persona,"Pure joy and creative chaos are the secret ingredients on set today, and we can't wait for you to see the magic!",2026-02-27 22:35:32,True
+2209751.jpg,sad,zero-shot,All this effort to frame a feeling that feels permanently lost.,2026-02-27 22:35:41,True
+2209751.jpg,sad,few-shot,"The world continues its show, oblivious to the quiet sorrow within.",2026-02-27 22:35:47,True
+2209751.jpg,sad,chain-of-thought,A quiet longing on this street of make-believe.,2026-02-27 22:35:56,True
+2209751.jpg,sad,persona,"Every perfectly framed scene holds the quiet melancholy of a moment that never truly was, and will soon be gone.",2026-02-27 22:36:03,True
+2209751.jpg,surprised,zero-shot,"Whoa, a whole movie set just popped up!",2026-02-27 22:36:09,True
+2209751.jpg,surprised,few-shot,"Wow, a whole movie set just materialized on this street!",2026-02-27 22:36:14,True
+2209751.jpg,surprised,chain-of-thought,Astonishing setup for a street shot!,2026-02-27 22:36:22,True
+2209751.jpg,surprised,persona,"Wait, my morning walk just became a full-blown movie set?!",2026-02-27 22:36:32,True
+2656351.jpg,joy,zero-shot,Big sister bliss begins with this sweet new arrival!,2026-02-27 22:36:38,True
+2656351.jpg,joy,few-shot,Pure happiness watching these two begin their journey together!,2026-02-27 22:36:42,True
+2656351.jpg,joy,chain-of-thought,My heart is bursting with joy for my new little one!,2026-02-27 22:36:50,True
+2656351.jpg,joy,persona,"Her heart just grew two sizes bigger, ready for all the happy chaos a new sibling brings!",2026-02-27 22:36:59,True
+2656351.jpg,sad,zero-shot,"This sweet, fleeting moment now carries the quiet weight of years long past.",2026-02-27 22:37:07,True
+2656351.jpg,sad,few-shot,The softest cries often carry the heaviest burdens.,2026-02-27 22:37:15,True
+2656351.jpg,sad,chain-of-thought,Her wide eyes held a quiet farewell to a childhood's simple grace.,2026-02-27 22:37:24,True
+2656351.jpg,sad,persona,"The quiet moment when her world shifted, and she learned that love sometimes arrives with a bittersweet cry.",2026-02-27 22:37:33,True
+2656351.jpg,surprised,zero-shot,"Her face says, ""Wow, a baby!""",2026-02-27 22:37:41,True
+2656351.jpg,surprised,few-shot,"Whoa, this little one already has so much to say!",2026-02-27 22:37:48,True
+2656351.jpg,surprised,chain-of-thought,My new baby! Can you believe it?!,2026-02-27 22:37:58,True
+2656351.jpg,surprised,persona,"Her face perfectly captures the moment she realized her new sibling came with a surprise, built-in alarm system.",2026-02-27 22:38:09,True
